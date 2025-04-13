@@ -19,12 +19,11 @@ Our team conquered the CS50 Puzzle Day 2025 competition, solving a series of cha
 | Bomb | ![Whiteboard Strategy](/Images/bomb.png) |
 | Binary | ![Debugging Session](/Images/binary.png) |
 
-## Video Highlights
+## Certificates of Achievement
 
-| Content | Description | Video |
-|---------|-------------|-------|
-| Competition Timelapse | 2-minute timelapse of our 8-hour puzzle-solving journey | <video src="/videos/second.mp4" controls></video> |
-| Final Puzzle Solved | The moment we cracked the final challenge | <video src="/videos/firstone.mp4" controls></video> |
+| Certificate |
+|------------|
+![Your Certificate](/Images/certificate.png) |
 
 ## Problem-Solving Approach
 
@@ -35,14 +34,6 @@ Our team approached the CS50 Puzzle Day with a structured methodology:
 3. **Parallel Processing**: Working on multiple puzzles simultaneously
 4. **Collaborative Verification**: Cross-checking solutions before submission
 5. **Adaptive Strategy**: Reallocating resources as puzzles were solved or roadblocks encountered
-
-## Tools & Technologies Used
-
-- Python for algorithm implementation
-- Jupyter Notebooks for data analysis
-- Collaborative whiteboarding tools
-- Custom-built cipher decoder
-- Graph visualization software
 
 ## Lessons Learned
 
